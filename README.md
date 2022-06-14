@@ -1,3 +1,5 @@
+![p-1](https://user-images.githubusercontent.com/52166127/173513715-68968147-818f-4286-8806-031ca950f80c.png)
+[F(F(x)).pdf](https://github.com/F-F-x-Crew/RefLex-assistent/files/8897229/F.F.x.pdf)
 # RefLex-assistent
 this is a Telegram bot that encourages a student to rethink the learning process.
 
